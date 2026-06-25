@@ -60,7 +60,6 @@ I enjoy transforming complex ideas and UI designs into fast, responsive, and use
 
 
 ---
-
 ## 💻 Tech Stack
 
 ### Frontend
@@ -72,16 +71,24 @@ I enjoy transforming complex ideas and UI designs into fast, responsive, and use
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge\&logo=redux\&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge\&logo=react-router\&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge\&logo=mui\&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge\&logo=shadcnui\&logoColor=white)
 
 ### Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge\&logo=jsonwebtokens\&logoColor=white)
 
-### Database
+### Database & Cloud
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
+![VPS](https://img.shields.io/badge/VPS_Server-326CE5?style=for-the-badge\&logo=linux\&logoColor=white)
 
 ### Tools & Platforms
 
@@ -89,13 +96,14 @@ I enjoy transforming complex ideas and UI designs into fast, responsive, and use
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge\&logo=chartdotjs\&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge\&logo=eslint\&logoColor=white)
 
 ### AI & Learning
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge\&logo=openai\&logoColor=white)
-![AI](https://img.shields.io/badge/AI_Engineering-Learning-blue?style=for-the-badge)
+![AI Engineering](https://img.shields.io/badge/AI_Engineering-Learning-blue?style=for-the-badge)
 ![LLMs](https://img.shields.io/badge/Large_Language_Models-Exploring-success?style=for-the-badge)
-
 
 ---
 
