@@ -2,36 +2,40 @@
 
 Hi 👋, I'm **Muhammad Waqas**
 
-💻 MERN Stack Developer passionate about building modern web applications.
+⚡ Frontend Developer | MERN Stack Developer | Building modern, scalable web applications and continuously expanding my backend and AI expertise to become a well-rounded Full Stack Engineer.
 
-🎓 BS Computer Science Graduate (2020-24)
+🎓 BS Computer Science Graduate (2020–2024)
 
-🌱 Currently learning:
+🌱 Currently Learning
 
-* Full Stack
-* Advanced Next.js
-* React
-* SQL Database
+* Advanced Full Stack Development
+* Next.js Architecture & Performance Optimization
+* SQL Databases & Data Modeling
+* OpenAI API & AI Integrations
+* AI-Powered Web Applications
+* System Design & Scalable Backend Architecture
 
-👯 Looking to collaborate on:
+👯 Looking to Collaborate On
 
 * React Projects
 * Next.js Applications
+* SaaS Products
 * Open Source Projects
 
-💬 Ask me about:
+💬 Ask Me About
 
-* HTML
-* CSS
-* JavaScript
-* React.js
-* Next.js
+* HTML5 & CSS3
+* JavaScript & TypeScript
+* React.js & Next.js
 * Tailwind CSS
-* Node.js
-* Express
+* Node.js & Express.js
+* MongoDB
+* Frontend Architecture
 
-⚡ Fun Fact:
-I enjoy turning UI designs into responsive and interactive web experiences.
+⚡ Fun Fact
+
+I enjoy transforming complex ideas and UI designs into fast, responsive, and user-friendly web applications.
+
 
 ---
 ## 🌐 Connect With Me
@@ -49,7 +53,7 @@ I enjoy turning UI designs into responsive and interactive web experiences.
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://www.instagram.com/your_username">
+<a href="https://www.instagram.com/waqashadi">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 </p>
@@ -59,23 +63,39 @@ I enjoy turning UI designs into responsive and interactive web experiences.
 
 ## 💻 Tech Stack
 
+### Frontend
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge\&logo=redux\&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js)
+### Backend
 
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
 
-![node](https://img.shields.io/badge/node-38BDF8?style=for-the-badge\&logo=node\&logoColor=white)
+### Database
 
-![express](https://img.shields.io/badge/express-38BDF8?style=for-the-badge\&logo=express\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+
+### Tools & Platforms
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+
+### AI & Learning
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge\&logo=openai\&logoColor=white)
+![AI](https://img.shields.io/badge/AI_Engineering-Learning-blue?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/Large_Language_Models-Exploring-success?style=for-the-badge)
+
 
 ---
 
