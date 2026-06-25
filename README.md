@@ -10,34 +10,17 @@ Hi 👋, I'm **Muhammad Waqas**
 
 🌱 Currently Learning
 
-* Advanced Full Stack Development
-* Next.js Architecture & Performance Optimization
-* SQL Databases & Data Modeling
-* OpenAI API & AI Integrations
-* AI-Powered Web Applications
-* System Design & Scalable Backend Architecture
-
-👯 Looking to Collaborate On
-
-* React Projects
-* Next.js Applications
-* SaaS Products
-* Open Source Projects
+* Advanced Full Stack Development   * Next.js Performance Optimization
+* SQL Databases                     * Advanced Backend Architecture
+* OpenAI API & AI Integrations      * AI-Powered Web Applications
 
 💬 Ask Me About
 
-* HTML5 & CSS3
-* JavaScript & TypeScript
-* React.js & Next.js
-* Tailwind CSS
-* Node.js & Express.js
-* MYSQL
-* Frontend Architecture
+ HTML5 & CSS3, JavaScript & TypeScript, React.js & Next.js, Tailwind CSS, Node.js & Express.js, MYSQL
 
 ⚡ Fun Fact
 
-I enjoy transforming complex ideas and UI designs into fast, responsive, and user-friendly web applications.
-
+I enjoy transforming UI designs into fast, responsive, and user-friendly web applications.
 
 ---
 ## 🌐 Connect With Me
