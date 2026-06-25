@@ -2,16 +2,16 @@
 
 Hi 👋, I'm **Muhammad Waqas**
 
-💻 Front-End Developer passionate about building modern web applications.
+💻 MERN Stack Developer passionate about building modern web applications.
 
-🎓 BS Computer Science Graduate (2024)
+🎓 BS Computer Science Graduate (2020-24)
 
 🌱 Currently learning:
 
-* MERN Stack
-* Advanced React
-* Next.js
-* MongoDB
+* Full Stack
+* Advanced Next.js
+* React
+* SQL Database
 
 👯 Looking to collaborate on:
 
@@ -27,6 +27,8 @@ Hi 👋, I'm **Muhammad Waqas**
 * React.js
 * Next.js
 * Tailwind CSS
+* Node.js
+* Express
 
 ⚡ Fun Fact:
 I enjoy turning UI designs into responsive and interactive web experiences.
@@ -71,11 +73,13 @@ Email: [waqashadi075@gmail.com](mailto:waqashadi075@gmail.com)
 
 ## 🚀 Featured Projects
 
-* QR Code Generator
-* Student Consultancy Portal
+* Haya Threads E-Commerce
+* Interviews
 * React Dashboards
 * Next.js Applications
+* QR Code Generator
 * Portfolio Projects
+* Student Consultancy Portal
 
 ---
 
