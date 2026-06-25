@@ -34,12 +34,26 @@ Hi 👋, I'm **Muhammad Waqas**
 I enjoy turning UI designs into responsive and interactive web experiences.
 
 ---
+## 🌐 Connect With Me
 
-## 🌐 Socials
+<p align="left">
+<a href="https://linkedin.com/in/waqashadi" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-[LinkedIn](https://linkedin.com/in/waqashadi)
+<a href="mailto:waqashadi075@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-Email: [waqashadi075@gmail.com](mailto:waqashadi075@gmail.com)
+<a href="https://github.com/Waqashadi">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/your_username">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+</p>
+
 
 ---
 
@@ -56,6 +70,10 @@ Email: [waqashadi075@gmail.com](mailto:waqashadi075@gmail.com)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js)
 
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+
+![node](https://img.shields.io/badge/node-38BDF8?style=for-the-badge\&logo=node\&logoColor=white)
+
+![express](https://img.shields.io/badge/express-38BDF8?style=for-the-badge\&logo=express\&logoColor=white)
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 
