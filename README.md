@@ -2,6 +2,8 @@
 
 Hi 👋, I'm **Muhammad Waqas**
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Frontend+Developer;MERN+Stack+Developer;Next.js+Developer;AI+Enthusiast;Always+Learning+New+Technologies)](https://git.io/typing-svg)
+
 ⚡ Frontend Developer | MERN Stack Developer | Building modern, scalable web applications and continuously expanding my backend and AI expertise to become a well-rounded Full Stack Engineer.
 
 🎓 BS Computer Science Graduate (2020–2024)
